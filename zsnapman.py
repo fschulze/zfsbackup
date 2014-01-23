@@ -51,7 +51,7 @@ exclude_datasets = [
 
 
 # name of the zpool to take snapshots from
-DEFAULT_ZPOOL = 'zroot'
+DEFAULT_ZPOOL = 'tank'
 
 # how many snapshots to keep, or None for no limit (see SNAPS_BACKLOG_MAXDAYS)
 SNAPS_BACKLOG_NUMBER=None
